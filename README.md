@@ -4,8 +4,7 @@ Brain tumor detection model
           
           
           
-          
-          <img width="297" height="170" alt="image" src="https://github.com/user-attachments/assets/94ea2a49-06b5-49b9-b7c3-32398a128df0" />
+<img width="297" height="170" alt="image" src="https://github.com/user-attachments/assets/94ea2a49-06b5-49b9-b7c3-32398a128df0" />
 
 
 This project builds a deep learning model to classify brain tumor MRI scans into different categories using transfer learning (Xception model). The goal is to assist doctors and radiologists by providing an automated, accurate, and fast diagnostic tool.
