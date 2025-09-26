@@ -1,10 +1,9 @@
-# Neura - Brain tumor detection model ![Project Logo/Image](https://img.icons8.com/ios-filled/40/000000/brain.png)  
+# Neura - Brain tumor detection model 
           
           
           
-          
-<img width="1000" height="370" alt="image" src="https://github.com/user-attachments/assets/94ea2a49-06b5-49b9-b7c3-32398a128df0" />
-
+ <img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/187a40dd-faba-44be-8946-4405e3120a44" />
+         
 
 
 
@@ -22,15 +21,18 @@ Our trained model achieves:
 
 ## ➲ Prerequisites  
 
-Install the following packages before running the project:  
+Install the following packages before running the project: 
 
-- Python 3.x  
-- TensorFlow / Keras  
-- NumPy  
+
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+- Python 3.x 
+- TensorFlow  
+- Keras 
+- NumPy
 - Pandas  
-- Matplotlib  
-- Scikit-learn  
-
+- Matplotlib 
+- Scikit-learn 
 ## ➲ The Dataset
 
 We used publicly available MRI brain tumor datasets containing labeled images for classification.
